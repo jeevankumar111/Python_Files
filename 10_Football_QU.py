@@ -12,3 +12,4 @@ print("The total area is : ",area)
 000000
 000000000
 0000
+00
