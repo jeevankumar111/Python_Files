@@ -4,7 +4,7 @@ area = length*width
 print("The total area is : ",area)
 0000000000000
 000000000000
-000000
+0000000
 000000
 00000
 0000
