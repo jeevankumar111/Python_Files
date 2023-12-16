@@ -10,4 +10,4 @@ for n in next_square():
     if n > 25:
         break
         print(n)
-00000
+000009
