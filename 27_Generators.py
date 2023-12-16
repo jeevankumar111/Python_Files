@@ -10,3 +10,4 @@ for n in next_square():
     if n > 25:
         break
         print(n)
+0
