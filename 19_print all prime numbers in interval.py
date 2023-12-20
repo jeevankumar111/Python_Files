@@ -13,4 +13,4 @@ for num in range(lower, upper + 1):
                break
        else:
            print(num)
-          000000
+          0000000
