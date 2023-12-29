@@ -5,4 +5,4 @@ for item in Result:
         count +=1
 
         print("Number  of heads are",count)
-0000000
+00000000
