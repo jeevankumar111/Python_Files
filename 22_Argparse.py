@@ -15,4 +15,4 @@ if __name__ == "__main__":
     print("Result:",(
         int(args.physics)+int(args.chemitry) + int(args.maths)
     )/3)
-00000
+000000
