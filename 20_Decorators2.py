@@ -4,4 +4,4 @@ def factorial(n):
     else:
         return n*factorial((n-1))
 
-0000000
+00000000
