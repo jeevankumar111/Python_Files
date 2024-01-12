@@ -5,4 +5,4 @@ elif num == 0:
    print("Zero")
 else:
    print("Negative number
-000000000000
+0000000000000
