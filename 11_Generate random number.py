@@ -4,4 +4,4 @@
 import random
 
 print(random.randint(0,9))
-000000
+0000000
