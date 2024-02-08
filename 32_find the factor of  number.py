@@ -10,4 +10,4 @@ def print_factors(x):
 num = 320
 
 print_factors(num)
-00000000
+000000000
