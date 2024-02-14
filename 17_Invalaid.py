@@ -5,5 +5,5 @@ record_one=4
 record^one=6
 continue=7
 1record=1'''
-000000000000000
+0000000000000000
 
