@@ -1,4 +1,4 @@
-00length = 92
+000length = 92
 width =49.2
 area = length*width
 print("The total area is : ",area)
