@@ -1,4 +1,4 @@
-0000000# Taking kilometers input from the user
+00000000# Taking kilometers input from the user
 kilometers = float(input("Enter value in kilometers: "))
 
 # conversion factor
