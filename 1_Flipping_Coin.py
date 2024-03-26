@@ -1,4 +1,4 @@
-000000000000Result= ["H","H","T","T","H","T","H","T","H","T"]
+0000000000000Result= ["H","H","T","T","H","T","H","T","H","T"]
 count=0
 for item in Result:
     if item == "H":
