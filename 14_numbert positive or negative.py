@@ -1,4 +1,4 @@
-0num = float(input("Enter a number: "))
+00num = float(input("Enter a number: "))
 if num > 0:
    print("Positive number")
 elif num == 0:
