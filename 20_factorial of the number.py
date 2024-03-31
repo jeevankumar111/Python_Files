@@ -1,4 +1,4 @@
-000000# Python program to find the factorial of a number provided by the user.
+0000000# Python program to find the factorial of a number provided by the user.
 
 # change the value for a different result
 num = 7
