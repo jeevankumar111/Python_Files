@@ -1,4 +1,4 @@
-0# Python program to find the factorial of a number provided by the user.
+00# Python program to find the factorial of a number provided by the user.
 
 # change the value for a different result
 num = 7
