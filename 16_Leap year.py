@@ -1,4 +1,4 @@
-000000000000# Python program to check if year is a leap year or not
+0000000000000# Python program to check if year is a leap year or not
 
 year = 2000
 
