@@ -1,4 +1,4 @@
-000000000000000000000000000000000000# Python program to swap two variables
+0000000000000000000000000000000000000# Python program to swap two variables
 
 x = 5
 y = 10
