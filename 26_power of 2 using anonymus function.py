@@ -1,4 +1,4 @@
-# Display the powers of 2 using anonymous function
+## Display the powers of 2 using anonymous function
 
 terms = 10
 
