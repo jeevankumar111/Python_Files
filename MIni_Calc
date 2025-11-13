@@ -1,0 +1,17 @@
+Num1 = float(input("Enter First Number:"))
+op = input("Enter ant operator + , - , * , / ")
+Num2 = float(input("Enter the Second Number: "))
+
+if op == "+":
+    print("Result : ",Num1+Num2)
+elif op == "-":
+    print("Result : ",Num1-Num2)
+elif op == "*":
+    print("Result : ",Num1*Num2)
+elif op == "/":
+    if Num2 == 0 :
+        print("Error: Division by zero!")
+    else:
+        print("Result : ",Num1/Num2)
+else:
+    print("Invalid Operator")
